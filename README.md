@@ -1,5 +1,7 @@
 # AstRobotPh
-Neural network to generate journal paper titles, with twitter bot
+Neural network to generate journal paper titles, with twitter bot.
+
+Twitter bot at https://twitter.com/astrobotph .
 
 The neural network used is the one in "Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play" by David Foster, 06_01_lstm_text_train.ipynb (That code is used to train the network and not given here.) https://github.com/davidADSP/GDL_code
 
