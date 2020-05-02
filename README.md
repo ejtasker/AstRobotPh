@@ -6,10 +6,10 @@ Twitter bot at https://twitter.com/astrobotph .
 The neural network used is the one in "Generative Deep Learning: Teaching Machines to Paint, Write, Compose and Play" by David Foster, 06_01_lstm_text_train.ipynb (That code is used to train the network and not given here.) https://github.com/davidADSP/GDL_code
 
 Python notebooks:
-1. PaperTitleDataMining.ipynb 
+1. PaperTitleDataMining.ipynb // 
 Notebook to create training data of astrophysics paper titles from the ArXiv website, through their API.
 
-2. PaperTitleGeneratorPreTrained.ipynb
+2. PaperTitleGeneratorPreTrained.ipynb // 
 Test notebook to see how to run the pre-trained network to generate a new title, and explore string manipulation.
 
 Twitterbot:
