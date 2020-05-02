@@ -1,0 +1,3 @@
+worker: python3.6 astrobotph_stream.py
+processor: python3.6 astrobotph.py
+web: python server.py
