@@ -3,5 +3,5 @@ Keras-Preprocessing==1.0.9
 tensorflow==1.14.0
 tweepy==3.7.0
 numpy==1.16.1
-Flask==1.0.2
+Flask==2.3.2
 h5py==2.9.0
